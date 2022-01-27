@@ -2,7 +2,7 @@
     {
         "name": "Remote Recipe #1",
         "featured": false,
-        "image" : "eggplant parmesan",
+        "image" : "teest-2",
         "description": "Baked eggplant with bread crumbs and lots of cheese. Delicious!",
         "prepTime": "25 minutes",
         "cookTime": "35 minutes",
@@ -32,7 +32,7 @@
     {
         "name": "Remote Recipe #2",
         "featured": false,
-        "image" : "eggplant parmesan",
+        "image" : "test-1",
         "description": "Baked eggplant with bread crumbs and lots of cheese. Delicious!",
         "prepTime": "25 minutes",
         "cookTime": "35 minutes",
@@ -62,7 +62,7 @@
     {
         "name": "Remote Recipe #3",
         "featured": false,
-        "image" : "eggplant parmesan",
+        "image" : "test-2",
         "description": "Baked eggplant with bread crumbs and lots of cheese. Delicious!",
         "prepTime": "25 minutes",
         "cookTime": "35 minutes",
