@@ -2,7 +2,7 @@
     {
         "name": "Remote Recipe #1",
         "featured": false,
-        "image" : "teest-2",
+        "image" : "test-2",
         "description": "Baked eggplant with bread crumbs and lots of cheese. Delicious!",
         "prepTime": "25 minutes",
         "cookTime": "35 minutes",
