@@ -1,6 +1,6 @@
 [
     {
-        "name": "Eggplant Parmesan",
+        "name": "Remote Recipe #1",
         "featured": false,
         "image" : "eggplant parmesan",
         "description": "Baked eggplant with bread crumbs and lots of cheese. Delicious!",
@@ -30,7 +30,37 @@
         ]
     },
     {
-        "name": "Eggplant Parmesan",
+        "name": "Remote Recipe #2",
+        "featured": false,
+        "image" : "eggplant parmesan",
+        "description": "Baked eggplant with bread crumbs and lots of cheese. Delicious!",
+        "prepTime": "25 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "1 hour",
+        "servings": 10,
+        "highlights": [
+            "Vegetarian",
+            "Healthy",
+            "Easy clean-up"
+        ],
+        "ingredients": [
+            "Eggplant, peeled and thinly sliced",
+            "Large eggs",
+            "Italian seasoned bread crumbs",
+            "Spaghetti sauce",
+            "Mozarella cheese, shredded",
+            "Parmesan cheese, grated",
+            "Dried basil"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Dip eggplant slices in egg, then in bread crumbs. Place in a single layer on a baking sheet. Bake in preheated oven for 5 minutes on each side.",
+            "In a 9x13 inch baking dish spread spaghetti sauce to cover the bottom. Place a layer of eggplant slices in the sauce. Sprinkle with mozzarella and Parmesan cheeses. Repeat with remaining ingredients, ending with the cheeses. Sprinkle basil on top.",
+            "Bake in preheated oven for 35 minutes, or until golden brown."
+        ]
+    },
+    {
+        "name": "Remote Recipe #3",
         "featured": false,
         "image" : "eggplant parmesan",
         "description": "Baked eggplant with bread crumbs and lots of cheese. Delicious!",
