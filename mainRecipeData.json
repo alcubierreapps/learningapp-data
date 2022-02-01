@@ -1,8 +1,8 @@
 [
     {
-        "name": "Remote Recipe #1",
-        "featured": false,
-        "image" : "test-2",
+        "name": "Chicken with Mole",
+        "featured": true,
+        "image" : "pollo-mole",
         "description": "Baked eggplant with bread crumbs and lots of cheese. Delicious!",
         "prepTime": "25 minutes",
         "cookTime": "35 minutes",
@@ -30,9 +30,9 @@
         ]
     },
     {
-        "name": "Remote Recipe #2",
+        "name": "Chicken Fried Tacos",
         "featured": false,
-        "image" : "test-1",
+        "image" : "flautas-de-pollo",
         "description": "Baked eggplant with bread crumbs and lots of cheese. Delicious!",
         "prepTime": "25 minutes",
         "cookTime": "35 minutes",
@@ -60,9 +60,9 @@
         ]
     },
     {
-        "name": "Remote Recipe #3",
-        "featured": false,
-        "image" : "test-2",
+        "name": "Cochinita Pibil",
+        "featured": true,
+        "image" : "cochinita-pibil",
         "description": "Baked eggplant with bread crumbs and lots of cheese. Delicious!",
         "prepTime": "25 minutes",
         "cookTime": "35 minutes",
